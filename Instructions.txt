@@ -1,0 +1,36 @@
+#############################################################################################################################
+#---------------------------------------------------Steps for Visualization---------------------------------------------------#
+#############################################################################################################################
+1- Download the zip file.
+
+2- Unzip it.
+
+3-Open the anaconda command prompt.
+
+4- Run follwing commands
+
+	pip install pandas
+	pip install plotly
+	pip install plotly-geo
+	pip install dash
+
+4- Goto the directory where the file is downloaded.
+
+5- Execute the following command " python final.py"
+
+6- The following lines will appear 
+
+Running on http://127.0.0.1:8050/
+Debugger PIN: 740-150-234
+ * Serving Flask app "Final.py" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Running on http://127.0.0.1:8050/
+Debugger PIN: 615-549-808
+
+
+7- Open the Chrome browser and type "http://127.0.0.1:8050/" to visualize.
+
+Please note- Give atlease 10-15 seconds to open the dash and load
